@@ -1,4 +1,4 @@
-# DisableReacallWindows
+# DisableRecallWindows
 Disable Recall feature in Windows 11
 
 ```bash
